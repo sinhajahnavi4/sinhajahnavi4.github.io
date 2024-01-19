@@ -243,7 +243,7 @@ ul {
   .flex-container-reverse {
     flex-direction: column-reverse;
   }
-  
+
   .big-container-left, .small-container-right {
     flex: 100%;
   }
@@ -259,4 +259,9 @@ ul {
   .small-container-left {
     text-align: center;
   }
+
+  .publication-link strong {
+    font-family: 'Rubik', sans-serif;
+    font-size: 15px;
+}
 }

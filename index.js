@@ -146,7 +146,7 @@ window.onclick = function(event) {
 //BUTTON 6 -- links to outside website
 var btn6 = document.getElementById("btn6");
 btn6.onclick = function() {
-  window.open("https://www.arduino.cc", "_blank") //TODO add your link
+  window.open("https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1276454") //TODO add your link
 }
 
 //HOBBY MODALS
